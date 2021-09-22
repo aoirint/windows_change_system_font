@@ -23,8 +23,10 @@ Windows Registry Editor Version 5.00
 "Segoe Script Bold (TrueType)"="segoescb.ttf"
 "Segoe UI Black (TrueType)"="seguibl.ttf"
 "Segoe UI Black Italic (TrueType)"="seguibli.ttf"
+"Segoe UI Emoji"="seguiemj.ttf"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
 
 "Segoe UI"=-
+"Segoe UI Emoji"=-
 

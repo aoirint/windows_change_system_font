@@ -10,8 +10,10 @@ Windows Registry Editor Version 5.00
 "Segoe UI Symbol (TrueType)"=""
 "Segoe UI Black (TrueType)"=""
 "Segoe UI Black Italic (TrueType)"=""
+;"Segoe UI Emoji"=""
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
 
 "Segoe UI"="Noto Sans CJK JP Regular (TrueType)"
+;"Segoe UI Emoji"="Noto Color Emoji SVGinOT"
 
