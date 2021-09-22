@@ -21,6 +21,8 @@ Windows Registry Editor Version 5.00
 "Segoe Print Bold (TrueType)"="segoeprb.ttf"
 "Segoe Script (TrueType)"="segoesc.ttf"
 "Segoe Script Bold (TrueType)"="segoescb.ttf"
+"Segoe UI Black (TrueType)"="seguibl.ttf"
+"Segoe UI Black Italic (TrueType)"="seguibli.ttf"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
 
